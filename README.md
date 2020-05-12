@@ -1,11 +1,11 @@
 # Sorting-Algo-Visualisation
-####The GUi based sorting algorithm visualisation
+#### The GUi based sorting algorithm visualisation
 
 The common algorithms for the purpose are-
-*Bubble sort
-*Insertion sort
-*Merge sort
-*Quick sort
+* Bubble sort
+* Insertion sort
+* Merge sort
+* Quick sort
 
 The common features are-
 1. Speed scale--used to adjust the processing speed
