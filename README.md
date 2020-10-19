@@ -17,7 +17,7 @@ The common features are-
 1. Min-Max scale--used to set the minimum and maximum value of the array
 1. Data scale--used to set the data size
 
-# Installation - :hourglass:
+### Installation - :hourglass:
 
 Python version to be more than 3.0.0 and tkinter should be installed
 
